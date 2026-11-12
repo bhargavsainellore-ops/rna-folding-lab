@@ -1,0 +1,4 @@
+>sequence
+AUGGCUAUCCAGUAA
+.(((....)))....
+MFE: -0.60 kcal/mol

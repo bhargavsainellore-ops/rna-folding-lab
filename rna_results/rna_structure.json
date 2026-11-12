@@ -1,0 +1,9 @@
+{
+  "sequence": "AUGGCUAUCCAGUAA",
+  "length": 15,
+  "secondary_structure": ".(((....)))....",
+  "minimum_free_energy_kcal_per_mol": -0.6,
+  "drawing_svg": "rna_results/rna_structure.svg",
+  "dot_bracket_file": "rna_results/rna_structure.dotbracket.txt",
+  "note": "This is a predicted 2D secondary structure, not a validated 3D structure."
+}
